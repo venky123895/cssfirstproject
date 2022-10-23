@@ -1,0 +1,30 @@
+.header{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    width: 700px;
+    height: 250px;
+}
+/* .first{
+    text-align: center;
+    width: 700px;
+} */
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 700px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+.fifth{
+    text-align: center;
+}
